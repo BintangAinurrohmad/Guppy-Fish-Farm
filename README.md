@@ -1,6 +1,8 @@
 # Guppy-Fish-Farm
 tugas akhir pemrograman mobile
 
+## saya upload file zip karena tidak bisa upload folder
+
 Aplikasi pencarian peternakan ikan gupyy.
  progress: selesai
 
